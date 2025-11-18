@@ -1,6 +1,6 @@
 # Layoffs SQL Project
 
-A full SQL project analysing global tech layoffs.
+A full SQL project analysing global layoffs.
 
 ## Files Included
 - **Data_Cleaning.sql** – cleaned and prepared raw data  
